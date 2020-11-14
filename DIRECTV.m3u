@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV PLUS" tvg-logo="" group-title="PREMIUM",DIRECTV PLUS
+https://tecnoplay.club/sp1.php?c=40&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="" group-title="PREMIUM",DIRECTV SPORTS 2
+https://tecnoplay.club/sp1.php?c=41&f=.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="" group-title="PREMIUM",DIRECTV SPORT
+https://tecnoplay.club/sp1.php?c=42&f=.m3u8 
